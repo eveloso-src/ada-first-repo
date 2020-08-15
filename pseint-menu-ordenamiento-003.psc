@@ -5,7 +5,7 @@
 //	Todas las funciones se codificaran en un menu con valores enteros hasta que el usuario ingrese 
 // cero para salir. (1. agregar  2. listar 3. modificar 4. salir)
 
-
+// comienzo algoritmo
 Algoritmo menu
 	
 FinAlgoritmo
