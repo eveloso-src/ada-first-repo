@@ -2,11 +2,10 @@
 Primer proyecto git en ada
 
 
-** Dos asteriscos **
+## Dos asteriscos ##
 Texto descipcion de dos asteriscos
 
-*** Tres asteriscos ***
-Descipcion de funciones del proyecto
+
 
 - Funcion 1
 - Funcion 2
