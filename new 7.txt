@@ -1,0 +1,19 @@
+La dueña del repo: Invitar colaboradora/s
+
+cada colaboradora/s:
+1. git clone URL
+2. modificar un archivo comun 
+3. generar un archivo nuevo (iniciales)
+
+subir de a una los cambios
+- git add .
+- git commit -m "EV... "
+- git push  --> mensaje de error -> git pull
+- hacer merge 
+- git add .
+- git commit -m "merge"
+- git push
+
+
+
+- git stash
