@@ -16,4 +16,5 @@ subir de a una los cambios
 
 
 
-- git stash
+- git stash1
+- test diff
